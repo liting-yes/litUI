@@ -19,7 +19,6 @@ export default defineConfig({
     },
     lineNumbers: true
   },
-  outDir: '../public',
   cleanUrls: 'without-subfolders',
   themeConfig: {
     logo: 'lit.svg',
