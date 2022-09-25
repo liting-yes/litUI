@@ -1,8 +1,30 @@
 {
-  "name": "litui",
-  "private": true,
-  "version": "0.0.0",
+  "name": "@liting-yes/litui",
+  "version": "0.1.0",
+  "description": "A lightweight and practical UI component library of Vue 3.",
+  "keywords": [
+    "litui",
+    "lit",
+    "vue",
+    "vue3",
+    "ui",
+    "component"
+  ],
+  "homepage": "https://litui.liting.ink",
+  "bugs": {
+    "url": "https://github.com/liting-yes/litUI/issues",
+    "email": "luz.liting@gmail.com"
+  },
+  "author": {
+    "name": "liting",
+    "email": "luz.liting@gmail.com"
+  },
+  "license": "MIT",
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liting-yes/litUI.git"
+  },
   "scripts": {
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
